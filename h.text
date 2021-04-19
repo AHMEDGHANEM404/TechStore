@@ -1,0 +1,15 @@
+
+  require_once("Classes/Db.php");
+      require_once("Classes/Request.php");
+      require_once("Classes/Session.php");
+      require_once("Classes/Models/Cat.php");
+      require_once("Classes/Models/Order.php");
+      require_once("Classes/Models/OrderDetalis.php");
+      require_once("Classes/Models/Product.php");
+      require_once("Classes/Validation/ValidateRules.php");
+      require_once("Classes/Validation/Email.php");
+      require_once("Classes/Validation/Max.php");
+      require_once("Classes/Validation/Numeric.php");
+      require_once("Classes/Validation/Reqired.php");
+      require_once("Classes/Validation/Str.php");
+      require_once("Classes/Validation/Validator.php");
